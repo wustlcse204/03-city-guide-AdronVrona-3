@@ -1,0 +1,40 @@
+body {background-color: coral;}
+
+#pageopener {
+    color : rgb(255,255,255);
+    text-decoration: underline;
+    font-size: 200%;
+}
+
+a {
+    color:white;
+}
+a:hover { COLOR: blue};
+
+
+#form {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+
+input[type=text]:focus {
+    background-color: lightgreen;
+  }
+
+#churchill {
+    text-align:right;
+    line-height: 1.5; 
+}
+
+#bourbon {
+    text-align:right;
+    line-height: 1.5; 
+}
+
+#sporting {
+    line-height: 1.5; 
+}
+
+p {
+    line-height: 1.5em;
+}
